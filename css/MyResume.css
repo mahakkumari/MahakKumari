@@ -45,6 +45,10 @@ p{
 	padding-bottom: 0px;
 }
 
+table{
+	width: 100%;
+}
+
 ul {   
     padding-left: 20px;
     font-size: 20px;
