@@ -1,6 +1,6 @@
 body{
 	margin: 20px;
-	font-family: 'Play', serif;
+	font-family: Cambria,Georgia,serif;
 	padding-left: 15px;
 	padding-right: 15px;
 }
@@ -47,6 +47,12 @@ p{
 
 table{
 	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+tr, td{
+	padding: 0px;
 }
 
 ul {   
