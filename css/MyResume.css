@@ -1,5 +1,5 @@
 body{
-	margin: 0;
+	margin: 20px;
 	font-family: 'Play', serif;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -9,7 +9,7 @@ header{
 	background-color: #C9D7E5;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 }
 
 header, h1{
@@ -29,10 +29,26 @@ main{
 
 h2{
 	font-size: 30px;
+	background-color: #C9D7E5;
+	text-align: center;
+	padding-bottom: 0px;
+}
+
+h3{
+	font-size: 30px;
+	padding-bottom: 0px;
 }
 
 p{
 	font-size: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+ul {   
+    padding-left: 20px;
+    list-style-position: outside;
+    padding-right: 50px;
 }
 
 a{
@@ -45,6 +61,7 @@ a:hover{
 }
 
 footer{
+	font-size: 10px;
 	background-color: #C9D7E5;
 	text-align: center;
 	padding: 40px;
