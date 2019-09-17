@@ -10,12 +10,6 @@ body{
   zoom: 1.0;
 }
 
-@viewport {
-    width: extend-to-zoom 980px;
-    min-zoom: 0.25;
-    max-zoom: 5;
-}
-
 header{
 	background-color: #C9D7E5;
 	text-align: center;
